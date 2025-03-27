@@ -5,11 +5,7 @@
 
   <h3 align="center">SheSync</h3>
 
-  <p align="center">
-    <a href="https://shewin.netlify.app/" target="blank">Live Demo</a> |
-    <a href="https://github.com/Sreetama2001/SheWins-Period_Helper/issues" target="blank">Report Bug</a> |
-    <a href="https://github.com/Sreetama2001/SheWins-Period_Helper/issues" target="blank">Request Feature</a>
-  </p>
+ 
 </div>
 
 ---
@@ -59,28 +55,7 @@ To get a local copy up and running follow these simple example steps.
 
 ---
 
-### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This project doesn't rely on any external dependencies or services._
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/Pranshu321/Placed.git
-   ```
-2. Now install all npm packages.
-   ```sh
-    npm i 
-   ```
-   
-3. Now you have define own firebase project config at `firebase/firebaseconfig.js`.
-
-  ![image](https://user-images.githubusercontent.com/86917304/183728317-30372103-f0d7-4e99-b12c-7f0cd825ea18.png)
-
-4. After all steps defined above you can run command `npm start` to run application at `localhost:3000`.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
----
 
 
 
