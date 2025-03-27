@@ -35,17 +35,17 @@ A new report published by UNICEF and WaterAid found that more than a third of gi
 
 ## Technologies Used :
 
-1. **Frontend frameworks** : `React` `SASS` `react-router-dom` `react-toastify` `CSS3`
+1. **Frontend frameworks** : `React`  `react-router-dom` `react-toastify` `CSS3`
 
 2. **Authenciation**       : `Firebase`
 
 3. **Database and storage**: `Firestore` `MongoDB`
 
-4. **Services**            : `Azure` `Google Maps API` `Postman` `Kaggle` `netlify` 
+4. **Services**            : `Azure` `Google Maps API` `Postman` 
 
 5. **Deployment**          : `Docker` `FastAPI`
 
-6. **ML Frameworks**       : `Numpy` `Pandas` `Tensorflow` `Sklearn` `nltk` 
+6. **ML Frameworks**       : `vision flow`
 
 <!-- GETTING STARTED -->
 ## Getting Started
